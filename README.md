@@ -1,2 +1,2 @@
-# LANZER---LAN-Traffic-Analyzer
+# LANZER---LAN-Traffic-Analyzer-Tool
 Available on request through email
